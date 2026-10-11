@@ -1,0 +1,6 @@
+{
+  "name": "GitForge - GitHub Developer Hub & Toolkit",
+  "description": "Solusi produktivitas GitHub lengkap: Analisis portofolio, generator README profil & repo, panduan perintah Git, pembuat GitHub Actions & .gitignore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
